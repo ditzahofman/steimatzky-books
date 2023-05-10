@@ -1,0 +1,14 @@
+body,html,#root{
+  height: 100%;
+  background-color: rgb(12, 173, 155);
+}
+a{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: larger;
+  color: rgb(76, 61, 21);
+  width: 200px;
+  
+}
+a:link{
+  text-decoration: none;
+}
