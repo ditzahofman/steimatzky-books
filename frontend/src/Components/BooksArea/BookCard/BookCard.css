@@ -4,3 +4,10 @@
   
 }
 
+.BookCard .Summury{
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.BookCard .p{
+    background-color: bisque;
+}

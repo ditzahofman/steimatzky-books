@@ -5,7 +5,7 @@ function Home(): JSX.Element {
     return (
         <div className="Home">
 		<p>Intresting books!</p>
-        <BookList/>
+       
         </div>
     );
 }
